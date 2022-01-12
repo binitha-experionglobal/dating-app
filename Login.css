@@ -1,0 +1,43 @@
+body {font-family: Helvetica, sans-serif;}
+
+
+
+.full {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+button {
+    background-color: #33584b;
+    color: white;
+    padding: 14px 20px;
+
+    border: 2px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+  
+
+  .cancelbtn {
+    background-color: #f44336;
+  }
+.cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+  }
+  
+
+  .container {
+    padding: 16px;
+  }
+
